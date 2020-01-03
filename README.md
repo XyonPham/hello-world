@@ -10,4 +10,4 @@ I was born in Ho Chi Minh City, Viet Nam
 
 I am an only child in my family. I have no brothers or sisters.
 
-My favorite hobby is play games and listen to music.
+My hobbies are play games and listen to music.
