@@ -26,15 +26,9 @@ My favorite drink is coffee. I love to try all the different type of coffee and 
 
 - **Favorite Song**:
 
-This is just a famous song that i liked for a long time.
+This is just a famous song that i like for a long time.
 
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=EkHTsc9PU2A" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=EkHTsc9PU2A"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+[!['m Yours](http://img.youtube.com/vi/{EkHTsc9PU2A}/0.jpg)](https://www.youtube.com/watch?v=EkHTsc9PU2A "I'm Yours")
 
 
 
