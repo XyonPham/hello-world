@@ -42,5 +42,5 @@ Year | Description
 2018 | Start up my own PC component retail store 
 2019 | Close start up Project after 1 year running and look up for more future job.
 
-- Sorry I'm not a humor person to make everyone laugh. 
+- **Sorry I'm not a humor person to make everyone laugh. 
 
