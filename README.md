@@ -28,7 +28,17 @@ My favorite drink is coffee. I love to try all the different type of coffee and 
 
 This is just a famous song that i like for a long time.
 
-[!['m Yours](http://img.youtube.com/vi/{EkHTsc9PU2A}/0.jpg)](https://www.youtube.com/watch?v=EkHTsc9PU2A "I'm Yours")
+[![I'm Yours](https://img.youtube.com/vi/EkHTsc9PU2A/0.jpg)](https://www.youtube.com/watch?v=EkHTsc9PU2A "I'm Yours")
+
+# Extra Information:
 
 
+Year | Description
+---- | -----------
+2014 | Graduated LSTS High School + Get my first job at a restaurant
+2015 | Studied English at RMIT University
+2016 | NA
+2017 | Finish English course in RMIT + start a Diploma Ecomic Course in RMIT
+2018 | Start up my own PC component retail store 
+2019 | Close start up Project after 1 year running and look up for more future job.
 
