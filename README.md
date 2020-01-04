@@ -4,16 +4,36 @@ My name is Pham Gia Bao. This is my Hello World Page. Nice to meet you.
 
 # Basic Information:
 
-My birthday is 09 September 1995
++ My birthday is 09 September 1995
 
-I was born in Ho Chi Minh City, Viet Nam 
++ I was born in Ho Chi Minh City, Viet Nam 
 
-I am an only child in my family. I have no brothers or sisters.
++ I am an only child in my family. I have no brothers or sisters.
 
 # Some of my favorite things:
 
-- Favorite Drink:
+- **Favorite Drink**:
 
-My favorite drink is coffee.
+My favorite drink is coffee. I love to try all the different type of coffee and used to work for a premium coffee shop help me to gain a lot of knowledge about coffee.
 
-http://sodulich.hochiminhcity.gov.vn/UPLOADS/TinTuc/CKUploadIMG/2018/6/201806170631045439.jpg
+![Image description](https://github.com/XyonPham/hello-world/blob/master/Coffee.jpg)
+
+- **Favorite Movie**:
+
+[The Irishman](https://www.themoviedb.org/movie/398978-the-irishman?language=en-US) is one of my favorite movie that I watch recently with lots of emotion and thinking.
+
+![Image description](https://github.com/XyonPham/hello-world/blob/master/The%20Irishman%20Poster.jpg)
+
+- **Favorite Song**:
+
+This is just a famous song that i liked for a long time.
+
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/watch?v=EkHTsc9PU2A" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/watch?v=EkHTsc9PU2A"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+
+
