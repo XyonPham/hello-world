@@ -1,13 +1,19 @@
-# hello-world
+# Bao Pham Hello World Page
 
-Basic Information:
+My name is Pham Gia Bao. This is my Hello World Page. Nice to meet you.
 
-My name is Pham Gia Bao
+# Basic Information:
 
-My birthdate is 09 September 1995
+My birthday is 09 September 1995
 
 I was born in Ho Chi Minh City, Viet Nam 
 
 I am an only child in my family. I have no brothers or sisters.
 
-My hobbies are play games and listen to music.
+# Some of my favorite things:
+
+- Favorite Drink:
+
+My favorite drink is coffee.
+
+http://sodulich.hochiminhcity.gov.vn/UPLOADS/TinTuc/CKUploadIMG/2018/6/201806170631045439.jpg
